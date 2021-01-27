@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# TV-Show Search
+Built a website to search popular tv shows and get more information about ratings and genres using TVmaze api
+## Demo :
+Link : https://epic-snyder-c1aa73.netlify.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
