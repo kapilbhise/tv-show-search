@@ -1,7 +1,7 @@
 # TV-Show Search
 Built a website to search popular tv shows and get more information about ratings and genres using TVmaze api
 ## Demo :
-Link : https://epic-snyder-c1aa73.netlify.app/
+Link : https://tvshowsearch.netlify.app/
 
 ## Getting Started with Create React App
 
